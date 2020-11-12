@@ -1,1 +1,2 @@
 # Predictive-regulatory-network-models-for-systems-analysis-of-C.-difficile
+This repository contains all R scripts used for generating the input files for constructing the Environment and Gene Regulatory Influence Network (EGRIN) model for C. difficile. This repository also includes all R code used for analyzing the EGRIN model (i.e., the output of cMonkey2 and the Inferelator tools) and generating the corresponding figures for the manuscript "".
